@@ -1,7 +1,3 @@
----
-permalink: /README.md
----
-
 # Russian swears | Словарь мата русского языка
 
 [Непосредственно сам сайт](https://nickname32.github.io/russian-swears)
