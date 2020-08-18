@@ -2586,11 +2586,12 @@
 
 ## Заметки для редакторов
 
-Если установлен nodejs, можно генерировать содержание с помощью программы markdown-toc
+[Исходный код](https://github.com/nickname32/russian-swears) на github.com
+
+[Пул реквесты](https://github.com/nickname32/russian-swears/pulls) приветствуются (с помощью них вы можете предложить свою редакцию этого сайта)!
+
+Если установлен nodejs, содержание можно генерировать с помощью программы markdown-toc
 
 ```sh
 npx markdown-toc README.md
 ```
-
-[Исходный код](https://github.com/nickname32/russian-swears) на github.com
-[Пул реквесты](https://github.com/nickname32/russian-swears/pulls) приветствуются (с помощью них вы можете предложить свою редакцию этого сайта)!
